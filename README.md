@@ -1,5 +1,5 @@
 # Announcement :loudspeaker: 
-This repository is transferred from [gdm-SynseneHealth](https://github.com/draysontechnologies/RxDataSources) to Huma organisation as part of change in asset ownership 
+This repository is transferred from [gdm-SynseneHealth](https://github.com/draysontechnologies/RxRealm) to Huma organisation as part of change in asset ownership 
 
 # RxRealm
 
