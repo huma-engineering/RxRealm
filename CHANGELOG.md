@@ -6,6 +6,8 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [5.0.4](https://github.com/huma-engineering/RxRealm/branches/compare/v5.0.4%0Dv5.0.3) (2022-09-28)
 
+### [5.0.4](https://github.com/huma-engineering/RxRealm/branches/compare/v5.0.4%0Dv5.0.3) (2022-09-28)
+
 ### [5.0.3](https://github.com/RxSwiftCommunity/RxRealm/branches/compare/v5.0.3%0Dv5.0.2) (2021-09-05)
 
 ### [5.0.2](https://github.com/RxSwiftCommunity/RxRealm/branches/compare/v5.0.2%0Dv5.0.1) (2021-05-10)
