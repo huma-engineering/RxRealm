@@ -1,3 +1,6 @@
+# Announcement :loudspeaker: 
+This repository is transferred from [gdm-SynseneHealth](https://github.com/draysontechnologies/RxDataSources) to Huma organisation as part of change in asset ownership 
+
 # RxRealm
 
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
